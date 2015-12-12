@@ -33,7 +33,17 @@ config = {
             host: process.env.SERVER_HOST,
             // Port to be passed to node's `net.Server#listen()`, for iisnode set this to `process.env.PORT`
             port: process.env.SERVER_PORT
-        }
+        },
+        mail: {
+            transport: 'SMTP',
+            options: {
+                service: 'Gmail',
+                auth: {
+                    user: process.env.MAIL_USER,
+                    pass: process.env.MAIL_PASSWORD
+                }
+            }
+        }   
     },
 
     // ### Development **(default)**
