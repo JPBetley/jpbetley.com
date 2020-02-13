@@ -28,7 +28,7 @@ mix.js('src/_assets/js/main.js', 'js')
     })
     .purgeCss({
         extensions: ['html', 'md', 'js', 'php', 'vue'],
-        folders: ['source'],
+        folders: ['src'],
         whitelistPatterns: [/language/, /hljs/, /mce/],
     })
     .version();
