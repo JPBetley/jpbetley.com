@@ -14,9 +14,9 @@
         alt="About image"
         class="flex rounded-full h-64 w-64 bg-contain mx-auto md:float-right my-6 md:ml-10">
 
-    <p class="mb-6">This is where you can give a little more information about yourself or site. If you'd like to change the structure of this page, you can find the file at <code>source/about.blade.php</code></p>
+    <p class="mb-6">Hey there. I'm Phil Betley. I'm a web developer by trade, and you can find a lot of my thoughts on web and app development on this site.</p>
 
-    <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum officia dolorem accusantium veniam quae, possimus, temporibus explicabo magni voluptas. fugit natus deserunt atque veniam possimus earum harum itaque est!</p>
+    <p class="mb-6">In my spare time, I volunteer as a Scoutmaster of Troop 285, in the Del-Mar-Va Council, where I was also a scout as a kid.</p>
 
-    <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum officia dolorem accusantium veniam quae, possimus, temporibus explicabo magni voluptas. fugit natus deserunt atque veniam!</p>
+    <p class="mb-6">I'm also a huge fan of Dungeons and Dragons, and play a regular weekly game with a group of college buddies.</p>
 @endsection
