@@ -1,12 +1,12 @@
 ---
 extends: _layouts.post
 section: content
-title: HHVM and PHP: Int Max Behavior
+title: "HHVM and PHP: Int Max Behavior"
 date: 2014-01-08
 created_at: 2014-01-08T21:11:52.000Z
 updated_at: 2014-01-08T23:29:21.000Z
 published_at: 2014-01-08T21:32:31.000Z
-description: HHVM and PHP: Int Max Behavior
+description: "HHVM and PHP: Int Max Behavior"
 cover_image: /assets/img/post-cover-image-2.png
 ---
 

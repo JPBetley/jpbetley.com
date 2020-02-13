@@ -1,12 +1,12 @@
 ---
 extends: _layouts.post
 section: content
-title: Laracon NYC: Day Two
+title: "Laracon NYC: Day Two"
 date: 2014-05-20
 created_at: 2014-05-16T15:08:23.000Z
 updated_at: 2014-05-20T20:48:13.000Z
 published_at: 2014-05-20T20:45:50.000Z
-description: Laracon NYC: Day Two
+description: "Laracon NYC: Day Two"
 cover_image: /assets/img/post-cover-image-2.png
 ---
 

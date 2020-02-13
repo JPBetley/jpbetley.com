@@ -1,12 +1,12 @@
 ---
 extends: _layouts.post
 section: content
-title: Quick, Explicit Route::resource
+title: "Quick, Explicit Route::resource"
 date: 2014-01-26
 created_at: 2014-01-26T02:33:53.000Z
 updated_at: 2014-01-26T02:51:16.000Z
 published_at: 2014-01-26T02:43:27.000Z
-description: Quick, Explicit Route::resource
+description: "Quick, Explicit Route::resource"
 cover_image: /assets/img/post-cover-image-2.png
 ---
 
