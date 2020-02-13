@@ -3,6 +3,9 @@
 use Illuminate\Support\Str;
 
 return [
+    'build' => [
+        'source' => 'src',
+    ],
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'Blog Starter Template',
