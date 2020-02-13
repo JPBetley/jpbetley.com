@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://my-jigsaw-blog.com',
+    'baseUrl' => 'https://jpbetley.com',
     'build' => [
         'source' => 'src',
 	    'destination' => 'public',

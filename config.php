@@ -8,14 +8,14 @@ return [
     ],
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Blog Starter Template',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
-    'siteAuthor' => 'Author Name',
+    'siteName' => 'Phil Betley',
+    'siteDescription' => 'Developer, Dungeon Master, Ding Dong Squad Leader',
+    'siteAuthor' => 'Phil Betley',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Author Name', // Default author, if not provided in a post
+            'author' => 'Phil Betley', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],
