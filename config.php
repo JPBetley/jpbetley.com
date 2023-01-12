@@ -3,9 +3,6 @@
 use Illuminate\Support\Str;
 
 return [
-    'build' => [
-        'source' => 'src',
-    ],
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'Phil Betley',
@@ -31,6 +28,9 @@ return [
 
     // helpers
     'getDate' => function ($page) {
+        if (!$page->date) {
+            return new Datetime();
+        }
         return Datetime::createFromFormat('U', $page->date);
     },
     'getExcerpt' => function ($page, $length = 255) {
@@ -47,7 +47,7 @@ return [
         );
 
         if (count($content) > 1) {
-            return $content[0];
+            return $cleaned;
         }
 
         $truncated = substr($cleaned, 0, $length);
