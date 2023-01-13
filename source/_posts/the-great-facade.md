@@ -10,7 +10,7 @@ description: The Great Facade
 cover_image: /assets/img/post-cover-image-2.png
 ---
 
-Last time, I wrote about the new PHP mocking framework, [AspectMock](/posts/are-you-mocking-me), which added the ability to test static methods, something that was previously untestable. Also, recently several members of the PHP community got into a heated discussion about the use of statics in the popular PHP framwork Laravel. So I decided to add my two cents to the discussion and post about the **actual** use of statics in Laravel.
+Last time, I wrote about the new PHP mocking framework, [AspectMock](/blog/posts/are-you-mocking-me), which added the ability to test static methods, something that was previously untestable. Also, recently several members of the PHP community got into a heated discussion about the use of statics in the popular PHP framwork Laravel. So I decided to add my two cents to the discussion and post about the **actual** use of statics in Laravel.
 
 I know what you’re saying. “I thought you just told us static methods are hard for testing? Why not use AspectMock if you’re using static methods?”. Well, there is actually a good answer to what Laravel is doing and why it provides static methods to developers.
  

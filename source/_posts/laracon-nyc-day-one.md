@@ -80,4 +80,4 @@ Taylor has done a great job in providing developers the tools to create a unifie
 
 ---
 
-Go ahead and read my experiences of [Day Two of Laracon](/posts/laracon-nyc-day-two/)
+Go ahead and read my experiences of [Day Two of Laracon](/blog/posts/laracon-nyc-day-two/)

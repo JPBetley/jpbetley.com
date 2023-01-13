@@ -8,13 +8,14 @@ return [
     'siteName' => 'Phil Betley',
     'siteDescription' => 'Developer, Dungeon Master, Ding Dong Squad Leader',
     'siteAuthor' => 'Phil Betley',
+    'merge_collection_configs' => true,
 
     // collections
     'collections' => [
         'posts' => [
             'author' => 'Phil Betley', // Default author, if not provided in a post
             'sort' => '-date',
-            'path' => 'blog/{filename}',
+            'path' => '/blog/posts/{filename}',
         ],
         'categories' => [
             'path' => '/blog/categories/{filename}',
