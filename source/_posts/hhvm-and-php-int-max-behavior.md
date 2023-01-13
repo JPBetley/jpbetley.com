@@ -10,7 +10,7 @@ description: "HHVM and PHP: Int Max Behavior"
 cover_image: /assets/img/post-cover-image-2.png
 ---
 
-Today, [Anthony Ferrara](https://posts/.ircmaxell.com/) mentioned some strange behaviors about the differences between HHVM and PHP runtimes. If you haven't heard of [HHVM](https://www.hhvm.com/posts/), definitely go check it out. It is a PHP execution engine built by Facebook that is extremely fast, which is why Facebook built and is using it.
+Today, [Anthony Ferrara](https://blog.ircmaxell.com) mentioned some strange behaviors about the differences between HHVM and PHP runtimes. If you haven't heard of [HHVM](https://www.hhvm.com), definitely go check it out. It is a PHP execution engine built by Facebook that is extremely fast, which is why Facebook built and is using it.
 
 However, as Anthony mentioned in his [twitter post](https://twitter.com/ircmaxell/status/421013609754288128), HHVM isn't necessarily a direct drop-in replacement for PHP. And one of his points is about the two engines' behaviors concerning `PHP_INT_MAX`.
 
