@@ -10,7 +10,7 @@ description: Gotta Start Somewhere
 cover_image: /assets/img/post-cover-image-2.png
 ---
 
-In an [earlier post](https://jpbetley.com/in-the-beginning), I wrote about my plan to start a solo project that encompasses a wide range of technologies, largely as a learning experience. 
+In an [earlier post](/blog/in-the-beginning), I wrote about my plan to start a solo project that encompasses a wide range of technologies, largely as a learning experience. 
 
 And you've gotta start somewhere. 
 

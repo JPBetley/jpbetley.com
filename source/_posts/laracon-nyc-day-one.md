@@ -11,7 +11,7 @@ cover_image: https://pbs.twimg.com/media/Bnrcn0_IMAE0iCR.jpg:large
 featured: true
 ---
 
-I have the priveledge of attending this year's Laracon in New York City, and let me tell you...IT WAS AWESOME. AND IT IS ONLY DAY HALFWAY THROUGH.
+I have the priveledge of attending this year's Laracon in New York City, and let me tell you...IT WAS AWESOME. AND IT IS ONLY HALFWAY THROUGH.
 
 I was posting like crazy and went into a retweet frenzy pretty damn quickly, so naturally my phone dies around lunch. I saw a lot of great talks today and so, I wanted to recap today's events as a way to express what I learned, and give myself an opportunity to digest and reflect on day one  of my first ever developer conference.
 
@@ -80,4 +80,4 @@ Taylor has done a great job in providing developers the tools to create a unifie
 
 ---
 
-Go ahead and read my experiences of [Day Two of Laracon](https://jpbetley.com/laracon-nyc-day-two/)
+Go ahead and read my experiences of [Day Two of Laracon](/blog/laracon-nyc-day-two/)

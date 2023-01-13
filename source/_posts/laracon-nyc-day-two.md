@@ -10,7 +10,7 @@ description: "Laracon NYC: Day Two"
 cover_image: https://pbs.twimg.com/media/BnxBZJWCMAAJQNH.jpg:large
 ---
 
-In part two of the series, I'm going to cover the events of, you guessed it, the second day of Laracon. [Here is my summary of Day One](https://jpbetley.com/laracon-nyc-day-one/)
+In part two of the series, I'm going to cover the events of, you guessed it, the second day of Laracon. [Here is my summary of Day One](/blog/laracon-nyc-day-one/)
 
 <img src="https://pbs.twimg.com/media/BnxBZJWCMAAJQNH.jpg:large" />
 
