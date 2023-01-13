@@ -13,7 +13,7 @@ cover_image: /assets/img/post-cover-image-2.png
 Another day, another back and forth discussion on Twitter about the merits of software development. 
 
 This morning, the topic was testing, and if having untested code inherently makes that code bad. It was all kicked off when our favorite PHP mentor [@coderabbi](https://twitter.com/coderabbi/) linked to the following from a conference:
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">In <a href="https://twitter.com/hashtag/Magento2?src=hash">#Magento2</a>, untested code is incomplete code (<a href="https://twitter.com/benmarks">@benmarks</a>) <a href="https://twitter.com/hashtag/realmagento?src=hash">#realmagento</a> <a href="http://t.co/OvYX0Oczqb">pic.twitter.com/OvYX0Oczqb</a></p>&mdash; Frédéric MARTINEZ (@FredMartinez) <a href="https://twitter.com/FredMartinez/status/653961304437338116">October 13, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">In <a href="https://twitter.com/hashtag/Magento2?src=hash">#Magento2</a>, untested code is incomplete code (<a href="https://twitter.com/benmarks">@benmarks</a>) <a href="https://twitter.com/hashtag/realmagento?src=hash">#realmagento</a> <a href="https://t.co/OvYX0Oczqb">pic.twitter.com/OvYX0Oczqb</a></p>&mdash; Frédéric MARTINEZ (@FredMartinez) <a href="https://twitter.com/FredMartinez/status/653961304437338116">October 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ####All code is tested, some way or another

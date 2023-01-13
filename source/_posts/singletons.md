@@ -42,7 +42,7 @@ While I agree that Singletons are useful in some cases, I firmly believe that th
 The issue now is that, while we believe that the Singleton Design Pattern is a poor approach to our problem, how do we create an instance of an object that has the same lifetime of a Singleton. Accomplishing this is what I call the Singleton Object Lifecycle.
 Singleton Object Lifecycle
 
-The Singleton Object Lifecycle is ultimately what the use of the Singleton Design Pattern provides to us: an object instance that lasts for the lifetime of the application. If you are practicing dependency inversion in your applications, you should be familiar with the concept of an Inversion of Control and Dependency Injection Containers. If you **aren’t** familiar with these terms, or their uses, you have some [homework](http://fabien.potencier.org/article/11/what-is-dependency-injection) to do.
+The Singleton Object Lifecycle is ultimately what the use of the Singleton Design Pattern provides to us: an object instance that lasts for the lifetime of the application. If you are practicing dependency inversion in your applications, you should be familiar with the concept of an Inversion of Control and Dependency Injection Containers. If you **aren’t** familiar with these terms, or their uses, you have some [homework](https://fabien.potencier.org/article/11/what-is-dependency-injection) to do.
 
 Using a DI tool, we now have the means to instantiate an object with a Singleton Object Lifecycle that can be used in other classes as a dependency.
 

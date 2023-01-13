@@ -10,7 +10,7 @@ description: Gulp
 cover_image: /assets/img/post-cover-image-2.png
 ---
 
-I've been working on using [Gulp](http://gulpjs.com/) as a task runner for doing things like compiling sass and coffeescript files in my projects. Gulp has turned out to be really slick with a lot of features coming from a variety of plugin packages. 
+I've been working on using [Gulp](https://gulpjs.com/) as a task runner for doing things like compiling sass and coffeescript files in my projects. Gulp has turned out to be really slick with a lot of features coming from a variety of plugin packages. 
 
 One of my favorite packages to use with gulp is [gulp-notify](https://github.com/mikaelbr/gulp-notify) which will display notification messages whenever a task is run. It allows me to see what gulp is doing without having to navigate away from my editor.
 

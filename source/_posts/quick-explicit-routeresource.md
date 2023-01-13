@@ -39,4 +39,4 @@ To use the snippet, just download the [gist](https://gist.github.com/JPBetley/86
 
 The video below shows the use of the snippet in Sublime Text.
 
-<iframe name='quickcast' src='http://quick.as/embed/lr5h08q' scrolling='no' frameborder='0' width='100%' allowfullscreen></iframe><script src='http://quick.as/embed/script/1.52'></script>
+<iframe name='quickcast' src='https://quick.as/embed/lr5h08q' scrolling='no' frameborder='0' width='100%' allowfullscreen></iframe><script src='https://quick.as/embed/script/1.52'></script>

@@ -10,12 +10,12 @@ description: "HHVM and PHP: Int Max Behavior"
 cover_image: /assets/img/post-cover-image-2.png
 ---
 
-Today, [Anthony Ferrara](http://blog.ircmaxell.com/) mentioned some strange behaviors about the differences between HHVM and PHP runtimes. If you haven't heard of [HHVM](http://www.hhvm.com/blog/), definitely go check it out. It is a PHP execution engine built by Facebook that is extremely fast, which is why Facebook built and is using it.
+Today, [Anthony Ferrara](https://blog.ircmaxell.com/) mentioned some strange behaviors about the differences between HHVM and PHP runtimes. If you haven't heard of [HHVM](https://www.hhvm.com/blog/), definitely go check it out. It is a PHP execution engine built by Facebook that is extremely fast, which is why Facebook built and is using it.
 
 However, as Anthony mentioned in his [twitter post](https://twitter.com/ircmaxell/status/421013609754288128), HHVM isn't necessarily a direct drop-in replacement for PHP. And one of his points is about the two engines' behaviors concerning `PHP_INT_MAX`.
 
 ###Making Max Overflow
-So, Anthony wasn't highlighting the difference of `PHP_INT_MAX`, but rather what happens when you add to that. Conventional static-typed languages will have the [integer overflow](http://en.wikipedia.org/wiki/Integer_overflow), since it has to remain an integer. However, PHP is a dynamically-typed language, and so it adjusts itself to become a floating-point value so that it will accept the addition accurately.
+So, Anthony wasn't highlighting the difference of `PHP_INT_MAX`, but rather what happens when you add to that. Conventional static-typed languages will have the [integer overflow](https://en.wikipedia.org/wiki/Integer_overflow), since it has to remain an integer. However, PHP is a dynamically-typed language, and so it adjusts itself to become a floating-point value so that it will accept the addition accurately.
 
 But HHVM doesn't seem to follow the same rules. Let's prove it.
 

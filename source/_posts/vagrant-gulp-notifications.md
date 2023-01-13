@@ -27,7 +27,7 @@ gulp.task('sass', function() {
 
 Piping the notify function with a message will display a notification with that message when the task is run. For me, that will be displayed using Mac's Notification Center.
 
-<a href="http://imgur.com/flNLQwN"><img src="http://i.imgur.com/flNLQwN.png" title="Hosted by imgur.com" /></a>
+<a href="https://imgur.com/flNLQwN"><img src="https://i.imgur.com/flNLQwN.png" title="Hosted by imgur.com" /></a>
 
 Now, this is all well and good, but I personally run my development environment inside of a Vagrant VM. Getting these notifications to be triggered from vagrant and be sent to Notification Center requires a little work.
 

@@ -7,10 +7,10 @@ created_at: 2014-05-16T15:08:23.000Z
 updated_at: 2014-05-20T20:48:13.000Z
 published_at: 2014-05-20T20:45:50.000Z
 description: "Laracon NYC: Day Two"
-cover_image: /assets/img/post-cover-image-2.png
+cover_image: https://pbs.twimg.com/media/BnxBZJWCMAAJQNH.jpg:large
 ---
 
-In part two of the series, I'm going to cover the events of, you guessed it, the second day of Laracon. [Here is my summary of Day One](http://jpbetley.com/laracon-nyc-day-one/)
+In part two of the series, I'm going to cover the events of, you guessed it, the second day of Laracon. [Here is my summary of Day One](https://jpbetley.com/laracon-nyc-day-one/)
 
 <img src="https://pbs.twimg.com/media/BnxBZJWCMAAJQNH.jpg:large" />
 
@@ -36,9 +36,9 @@ While the talk did not include concrete code examples showcasing this architectu
 
 <iframe src="//player.vimeo.com/video/78419167" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-######[From The BLN & Business of Software](http://vimeo.com/theblnbusinessofsoftware)
+######[From The BLN & Business of Software](https://vimeo.com/theblnbusinessofsoftware)
 
-This was hands down the best talk of the day, [**Devs and Depression**](http://baugues.com/depression). Greg painted a picture of the struggles that many people in the development world suffer through due to mental illness. He told us his story, shared his experiences, and showed us that people who have these issues are not alone, nor are they helpless to take control of their lives. He also shared with us the stories of those who were not as fortunate as he was.
+This was hands down the best talk of the day, [**Devs and Depression**](https://baugues.com/depression). Greg painted a picture of the struggles that many people in the development world suffer through due to mental illness. He told us his story, shared his experiences, and showed us that people who have these issues are not alone, nor are they helpless to take control of their lives. He also shared with us the stories of those who were not as fortunate as he was.
 
 Greg crafted a wonderful story full of humor, struggle, shame, and triumph. He presented his life in an easily accessible manner, which really put our lives in to perspective. Truly an amazing and inspiring talk, and well deserving of his standing ovation.
 

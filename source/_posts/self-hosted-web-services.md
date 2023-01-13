@@ -19,21 +19,21 @@ However, there are sometimes situations where using a self-hosted, free solution
 [Gitlab](https://www.gitlab.com/): Self-hosted Git Solution. This is great for keeping your business's internal work within the network, or for any side client work you may want to do, without putting it up on public repos, like Github.
 
 ### Server Monitoring
-[Amon](http://old.amon.cx/): Server Montioring Web Service. The creator has made a new version of this software, selling it as a SaaS. But he has made the old version open source and free for all.
+[Amon](https://old.amon.cx/): Server Montioring Web Service. The creator has made a new version of this software, selling it as a SaaS. But he has made the old version open source and free for all.
 
-[Cabot](http://cabotapp.com/)
+[Cabot](https://cabotapp.com/)
 
-[Sensu](http://sensuapp.org/)
+[Sensu](https://sensuapp.org/)
 
 ###Logging
-[Graylog](http://graylog2.org/)
+[Graylog](https://graylog2.org/)
 
 ###Analytics
-[Piwik](http://piwik.org/)
+[Piwik](https://piwik.org/)
 
 ###Newsletters
 
-[Sendy](http://sendy.co/)
+[Sendy](https://sendy.co/)
 
 ###Invoicing
 [PancakeApp](https://pancakeapp.com/)

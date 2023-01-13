@@ -10,19 +10,19 @@ description: Gotta Start Somewhere
 cover_image: /assets/img/post-cover-image-2.png
 ---
 
-In an [earlier post](http://jpbetley.com/in-the-beginning), I wrote about my plan to start a solo project that encompasses a wide range of technologies, largely as a learning experience. 
+In an [earlier post](https://jpbetley.com/in-the-beginning), I wrote about my plan to start a solo project that encompasses a wide range of technologies, largely as a learning experience. 
 
 And you've gotta start somewhere. 
 
 First, I had to decide on a language and a framework to use as the building blocks of the Forge. There are a ton of great ways to build a web application these days. Ruby on Rails has been huge over the past five years or so. Node.js has spawned a server-side javascript revolution that has been well received throughout the community. Countless other frameworks, languages, and tools are available for accomplishing what I'm setting out to do. But there has been one framework that has really captured my interests this past year.
 
 ### Laravel
-Laravel is a PHP framework developed by Taylor Otwell that makes building web applications easy, efficient, and fun. It has really come to renew my interest in working with PHP and introduced me to a great community full of intelligent developers who love to share their knowledge with people like me. It also pulls in some of the best resources from PHP to make a robust and feature rich framework to build applications of all types. If you don't believe me, check out [Built With Laravel](http://builtwithlaravel.com/) to see what Laravel is capable of.
+Laravel is a PHP framework developed by Taylor Otwell that makes building web applications easy, efficient, and fun. It has really come to renew my interest in working with PHP and introduced me to a great community full of intelligent developers who love to share their knowledge with people like me. It also pulls in some of the best resources from PHP to make a robust and feature rich framework to build applications of all types. If you don't believe me, check out [Built With Laravel](https://builtwithlaravel.com/) to see what Laravel is capable of.
 
 I have used this framework before on several small projects, but nothing substantial. So, because of my interest in exploring the framework and really understanding the potential it has, I've decided to use this as the starting point for Forge.
 
 #### Composer
-One of the things that makes Laravel great is that it leverages PHP's package manager [Composer](http://getcomposer.org/). As I said before, Laravel pulls in some of the best resources for PHP, and it does so using Composer. 
+One of the things that makes Laravel great is that it leverages PHP's package manager [Composer](https://getcomposer.org/). As I said before, Laravel pulls in some of the best resources for PHP, and it does so using Composer. 
 
 Composer was built by Nils Adermann and Jordi Boggiano as a way to share PHP packages efficiently across projects, as well as make depencency management easier for developers. It took its lead from the PHP-FIG's definition of [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md) autoloading standards. This allows for developers to easily define a configuration file of all the dependencies in a project and run `composer install` to easily install those dependencies.
 

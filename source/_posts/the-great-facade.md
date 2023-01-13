@@ -14,7 +14,7 @@ Last time, I wrote about the new PHP mocking framework, [AspectMock](/blog/2013/
 
 I know what you’re saying. “I thought you just told us static methods are hard for testing? Why not use AspectMock if you’re using static methods?”. Well, there is actually a good answer to what Laravel is doing and why it provides static methods to developers.
  
-Facades. No, it’s not pronounced fay-kades, it’s fuh-sahds. Facade is an object-oriented pattern popularized by the [Gang of Four](http://en.wikipedia.org/wiki/Design_Patterns) that provides an interface to a large body of code, such as a class library. This design pattern is incredible powerful, and is used extensively in the popular PHP framework, [Laravel](http://laravel.com). By leveraging the Facade Pattern, Taylor Otwell, the framework’s creator, provided developers the ability to use static methods of library classes for an “expressive, elegant syntax”.
+Facades. No, it’s not pronounced fay-kades, it’s fuh-sahds. Facade is an object-oriented pattern popularized by the [Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns) that provides an interface to a large body of code, such as a class library. This design pattern is incredible powerful, and is used extensively in the popular PHP framework, [Laravel](https://laravel.com). By leveraging the Facade Pattern, Taylor Otwell, the framework’s creator, provided developers the ability to use static methods of library classes for an “expressive, elegant syntax”.
 
  
  Well, that’s why the facade pattern is being used here! In laravel, you’re not calling a static method of a library class. Instead, the method call is for a Facade, which forwards the call to the instantiated library class. This allows us to keep both the elegance of the syntax and keep our code testable. Let me show you how that works.
@@ -62,4 +62,4 @@ Now, let that sink in. It works with a real instantiated object, and isn't just 
 So next time you `Mail::send()`, remember that you are actually in fact calling `Illuminate\Mail\Mailer`'s send method on an object in the IOC container.
 
 ####Update: 12/12/2013
-Taylor has just included a doc page for Laravel's use of Facades on the [Laravel Website](http://laravel.com/docs/facades). I recommend you check it out as it includes a lot of great information about them, including usage, creating your own Facades, mocking Facades for testing, and a reference list of Laravel's built in Facade classes and which implementations they refer to.
+Taylor has just included a doc page for Laravel's use of Facades on the [Laravel Website](https://laravel.com/docs/facades). I recommend you check it out as it includes a lot of great information about them, including usage, creating your own Facades, mocking Facades for testing, and a reference list of Laravel's built in Facade classes and which implementations they refer to.

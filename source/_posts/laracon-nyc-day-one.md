@@ -7,7 +7,8 @@ created_at: 2014-05-16T01:43:20.000Z
 updated_at: 2014-09-18T14:55:35.000Z
 published_at: 2014-05-16T04:45:03.000Z
 description: "Laracon NYC: Day One"
-cover_image: /assets/img/post-cover-image-2.png
+cover_image: https://pbs.twimg.com/media/Bnrcn0_IMAE0iCR.jpg:large
+featured: true
 ---
 
 I have the priveledge of attending this year's Laracon in New York City, and let me tell you...IT WAS AWESOME. AND IT IS ONLY DAY HALFWAY THROUGH.
@@ -17,7 +18,7 @@ I was posting like crazy and went into a retweet frenzy pretty damn quickly, so 
 <img src="https://pbs.twimg.com/media/Bnrcn0_IMAE0iCR.jpg:large" alt="Wide shot of the developer conference" />
 
 ###[Jeffrey Way](https://twitter.com/jeffrey_way)
-Starting off the conference was probably the most influential developer in my personal career, Jeffrey Way. If you are not familiar with him, he currently runs [Laracasts](https://laracasts.com), which is a fantastic resource for Laravel and other web dev tools. But back in the day, he used to run Tuts+, which is where I first learned all about Codeigniter from him while building the [WITR](http://witr.rit.edu) site during my college years. That project, and his lessons, are what ultimately lead me to choosing a career in web dev. But enough about that...
+Starting off the conference was probably the most influential developer in my personal career, Jeffrey Way. If you are not familiar with him, he currently runs [Laracasts](https://laracasts.com), which is a fantastic resource for Laravel and other web dev tools. But back in the day, he used to run Tuts+, which is where I first learned all about Codeigniter from him while building the [WITR](https://witr.rit.edu) site during my college years. That project, and his lessons, are what ultimately lead me to choosing a career in web dev. But enough about that...
 
 Jeffrey's presentation was a bit of a potpourri. He covered a wide range of topics such as the new Mail drivers in Laravel 4.2, tools like Behat and Gulp, and a myriad of other things. It was great seeing him kick things off with all of these tips, tricks, and tools, which is really what Jeffrey does best: whetting our appetites and letting us dig deeper ourselves.
 
@@ -27,10 +28,10 @@ Next up was Jeremy Lindblom from Amazon talking about integrating AWS with Larav
 During his talk, he arhictected a scalable application using many of Amazon's platforms, using Laravel and the AWS SDK, which Jeremy works on. It was quite impressive to see the pieces fit together. I do wish his "funny faces" app he walked through was public so everyone at the conference could upload their own selfies using it.
 
 ###[Jeremy Mikola](https://twitter.com/jmikola)
-Following Jeremy is Jeremy (Mikola) with his talk about [React PHP](http://reactphp.org/). React allows for asynchronous handling of events to be processed by your PHP application. Anyone who has used node.js before will understand immediately how this works. Jeremy showcased the benefits that asynchronous programming offers, presenting it in a understandable manner using Mario gifs! He even had a running chat app using React open during his talk that people could hop on (a bold, risky move with it showing on the big screen at a conference, but it went swimmingly).
+Following Jeremy is Jeremy (Mikola) with his talk about [React PHP](https://reactphp.org/). React allows for asynchronous handling of events to be processed by your PHP application. Anyone who has used node.js before will understand immediately how this works. Jeremy showcased the benefits that asynchronous programming offers, presenting it in a understandable manner using Mario gifs! He even had a running chat app using React open during his talk that people could hop on (a bold, risky move with it showing on the big screen at a conference, but it went swimmingly).
 
 ###[Shawn McCool](https://twitter.com/ShawnMcCool)
-After lunch, Shawn McCool gave a talk about integrating patterns derived from Design Driven Development practices during his revamp of the [Laravel.IO](http://laravel.io/forum) codebase. This was probably my **favorite** talk of the day. 
+After lunch, Shawn McCool gave a talk about integrating patterns derived from Design Driven Development practices during his revamp of the [Laravel.IO](https://laravel.io/forum) codebase. This was probably my **favorite** talk of the day. 
 
 <img src="https://pbs.twimg.com/media/BnsiTmrCIAEDiw9.jpg:large" alt="Shawn McCool presenting at Laracon" />
 
@@ -67,7 +68,7 @@ Then came Taylor Otwell with his keynote address, the one everyone has been wait
 
 <img src="https://pbs.twimg.com/media/BntJUnhCcAAM1Ql.jpg:large" alt="Taylor Otwell presenting at Laracon" />
 
-Then, he started dropping bombs. He started with [Laravel Homestead](http://laravel.com/docs/homestead), a preconfigured vagrant box, made with practically all the tools and software you can think of too use all of the features in Laravel. Not just a standard LEMP stack, it includes memcached, beanstalk, supervisor, redis, etc. for your use. And their is no need to provision it anymore, the box is already set up. So instead of a 10 minute coffee break while vagrant boots, it's a 10 second download. **Fantastic.**
+Then, he started dropping bombs. He started with [Laravel Homestead](https://laravel.com/docs/homestead), a preconfigured vagrant box, made with practically all the tools and software you can think of too use all of the features in Laravel. Not just a standard LEMP stack, it includes memcached, beanstalk, supervisor, redis, etc. for your use. And their is no need to provision it anymore, the box is already set up. So instead of a 10 minute coffee break while vagrant boots, it's a 10 second download. **Fantastic.**
 
 But he wasn't done yet. 
 
@@ -79,4 +80,4 @@ Taylor has done a great job in providing developers the tools to create a unifie
 
 ---
 
-Go ahead and read my experiences of [Day Two of Laracon](http://jpbetley.com/laracon-nyc-day-two/)
+Go ahead and read my experiences of [Day Two of Laracon](https://jpbetley.com/laracon-nyc-day-two/)
